@@ -1,4 +1,0 @@
-## Quantumult X 备份
-在从shadowrocket换到QX后，不由得感叹到QX的多元性及玩法，于是决定在此备份一下自己的配置、分流规则等
-
-*rules*
